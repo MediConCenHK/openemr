@@ -32,6 +32,8 @@ Check out [API_README.md](API_README.md)
 
 ### For Developers
 
+- ubuntu install: `sudo apt install -y php php-ldap php-dom php-gd php-mbstring php-soap php-zip`
+
 If using OpenEMR directly from the code repository, then the following commands will build OpenEMR:
 ```
 composer install
